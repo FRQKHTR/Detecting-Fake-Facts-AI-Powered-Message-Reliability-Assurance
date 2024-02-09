@@ -4,11 +4,11 @@ Try [Fakefact detection tool]
 
 ## Motivation 
 
-* The proliferation of messaging apps has made it easier than ever to share information with friends and family. However, the downside to this convenience is the spread of misinformation. False information can quickly spread and lead to unnecessary panic and confusion. In some cases, it can even have serious consequences.
+* The widespread use of messaging platforms has revolutionized how we communicate with our social circles. However, this convenience has also opened the floodgates to the dissemination of inaccurate information. Misleading content can swiftly circulate, causing unnecessary anxiety and uncertainty. In certain instances, it can even result in serious repercussions.
 
-* To combat this problem, it is important to have a reliable tool to check the veracity of forwarded messages. That's where this application comes in. By leveraging the power of AI and natural language processing, it can quickly determine whether a message is credible or not.
+* To address this pressing issue, there's a crucial need for a dependable tool to authenticate forwarded messages. This is where our innovative application steps in. By harnessing the capabilities of artificial intelligence and natural language processing, it swiftly assesses the credibility of messages.
 
-* The motivation behind this project is to provide a simple and accessible solution to help people fact-check the information they receive on messaging apps. By promoting responsible information sharing, we can help prevent the spread of false information and ensure that people have access to accurate and reliable information.
+* The driving force behind this initiative is to offer a straightforward and user-friendly solution for individuals to fact-check the information they encounter on messaging platforms. Through the promotion of responsible sharing practices, we aim to mitigate the spread of misinformation and ensure that individuals have access to truthful and dependable content.
 
 ## Technologies & Framework  
 This Project is created with:
